@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo $superkowo
+echo $cenafaktury
